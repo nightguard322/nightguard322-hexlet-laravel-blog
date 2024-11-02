@@ -1,2 +1,4 @@
-<h1>О блоге</h1>
-<p>Эксперименты с Laravel на Хекслете</p>
+@section('header', 'О блоге')
+@section('conent')
+    Эксперименты с Laravel на Хекслете</p>
+@endsection
